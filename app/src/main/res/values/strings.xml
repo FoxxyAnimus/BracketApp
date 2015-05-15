@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Bracket</string>
 
+    <string name="Main.Add">+</string>
+    <string name="Main.Play">Play</string>
+
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
 </resources>
